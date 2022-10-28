@@ -4,7 +4,6 @@
 ## 👋 Hello World
 I'm a self taught programmer
 
-![Profile Views](https://komarev.com/ghpvc/?username=prnv404&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
 🔭&nbsp;I’m currently working on **Edtech project**
@@ -24,7 +23,3 @@ I'm a self taught programmer
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
 
-## GitHub Analytics
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnv404&theme=default&layout=compact&langs_count=5">
-</div>
