@@ -2,7 +2,7 @@
 <a href="mailto:pranavofficial404@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
 
 ## 👋 Hello World
-My name is pranav,i'm a self taught programmer
+My name is pranav, i'm a self taught programmer
 
 
 ## About me
