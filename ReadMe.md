@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ecommerce-Backend**
 
-- 🌱 I’m currently learning **Node and its companions**
+- 🌱 I’m currently learning **Nodejs and its companions**
 
 - 👯 I’m looking to collaborate on **Web development**
 
