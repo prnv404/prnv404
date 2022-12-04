@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **Nothing *![CrySadGIF](https://user-images.githubusercontent.com/106660600/205485304-19c9cae5-3b86-4d35-a16f-7d3aa313aadd.gif)
-*
-
 - 🌱 I’m currently learning **Nestjs**
 
 - 👯 I’m looking to collaborate on **Web development**
