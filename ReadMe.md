@@ -1,17 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate Backend Engineer from India</h3>
-
-- 🌱 I’m currently learning **Nestjs**
-
-- 👯 I’m looking to collaborate on **Web development**
-
-- 🤝 I’m looking for help with **Frontend development**
-
-- 💬 Ask me about **Node**
-
-- 📫 How to reach me **pranavofficial404@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
