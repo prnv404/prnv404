@@ -1,5 +1,5 @@
-<h2>
-  Currently Unemployed <br>
-  Looking for opportunities :) </h2>
+<h3>
+  Currently unemployed 
+  looking for opportunities :) </h3>
 
 Connect Me i.pranav404@gmail.com
