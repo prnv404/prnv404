@@ -1,3 +1,5 @@
-<h2> Looking for opportunities :) </h2>
+<h2>
+  Currently Unemployed <br>
+  Looking for opportunities :) </h2>
 
-[Email me](mailto:pranavofficial404@gmail.com)
+Connect Me i.pranav404@gmail.com
