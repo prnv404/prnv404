@@ -4,4 +4,4 @@
   Unemployed 
   looking for opportunities :)
 
-connect me connectpranavs@gmail.com
+connect me mail@pranavs.tech
