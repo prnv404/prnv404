@@ -1,2 +1,2 @@
-currently @brocmap https://brototype.com </br>
+currently student @brocmap https://brototype.com </br>
 connect me mail@pranavs.tech
