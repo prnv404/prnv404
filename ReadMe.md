@@ -1,7 +1,8 @@
 # Hi, I'm Pranav 👋
-Node.js Backend Engineer | Microservices | Event-Driven | Docker + AWS
+Node.js Backend Engineer | Microservices | Event-Driven | Graphql
 
 ```ts
+
 class Pranav {
   name = "Pranav S";
   location = "Kochi, Kerala, India";
@@ -9,9 +10,8 @@ class Pranav {
   focus = "Node.js • TypeScript • Scalable Systems";
 
   stack = [
-    "NestJS", "TypeScript", "PostgreSQL", "Docker", 
-    "AWS (Fargate/ECS/Lambda)", "RabbitMQ", "Redis", 
-    "GraphQL", "Kafka", "Bun.js"
+    "NestJS", "TypeScript", "PostgreSQL", "Graphql", 
+    "NextJs", "React", "ReactNative", "Drizzle"
   ] as const;
 
   currentlyBuilding = "DUCK → Duolingo-style app for Indian competitive exams (NestJS + React Native)";
@@ -32,15 +32,15 @@ class Pranav {
     linkedin: "linkedin.com/in/pranav-s-2263a9352",
   };
 
-  vibe = "Ships reliable code. Drinks excessive chai. Slightly over-engineers on purpose.";
+  vibe = "Ships reliable code. Slightly over-engineers on purpose.";
 
   hireMe() {
     return `Hey! I'm currently open to work → ${this.contact.email}`;
   }
 }
 
-// Ready to instantiate in any README or site
 const me = new Pranav();
 console.log(me.hireMe());
+
 
 
