@@ -7,8 +7,8 @@ class Pranav {
   constructor() {
     this.name = "Pranav S";
     this.from = "Kochi, Kerala, India";
-    this.alias = ["prnv404", "pranavs", "the RabbitMQ evangelist"];
-    this.currentMood = "Building things that scale and don't wake me up at 3AM";
+    this.alias = ["prnv404", "pranavs"];
+    this.currentDream = "Building things that scale and don't wake me up at 3AM";
   }
 
   about() {
