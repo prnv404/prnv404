@@ -12,14 +12,13 @@ class Pranav {
   }
 
   about() {
-    return "Node.js backend engineer who turned a bus ticketing idea into reality, survived legacy Node versions, and now speaks fluent microservices, event-driven architecture, and Docker. I make systems reliable, fast, and slightly over-engineered — on purpose.";
+    return "Node.js backend engineer who speaks fluent microservices, event-driven architecture. I make systems reliable, fast, and slightly over-engineered on purpose.";
   }
 
   contact() {
     return {
       email: "pranavs.engineer@gmail.com",
       altEmail: "connectpranavs@gmail.com",
-      phone: "+91 9567296056",
       github: "github.com/prnv404",
       linkedin: "linkedin.com/in/pranav-s-2263a9352",
       telegram: "t.me/prnv404"
@@ -28,12 +27,6 @@ class Pranav {
 
   journey() {
     return [
-      {
-        role: "Product Developer",
-        company: "BUS3",
-        period: "Apr 2025 – Aug 2025",
-        story: "Built a real-time bus ticketing + live tracking system with NFC cards, Kafka, MQTT, Kubernetes, and a full operator dashboard. Validated with real Kerala bus operators."
-      },
       {
         role: "Backend Developer",
         company: "IODatalabs (GoCXM)",
@@ -56,9 +49,9 @@ class Pranav {
 
   currentlyBuilding() {
     return {
-      name: "Webhook Platform as a Service",
-      stack: ["NestJS", "GraphQL", "Drizzle ORM", "RabbitMQ", "Next.js", "AWS Fargate"],
-      vibe: "Like Svix, but with more retries and prettier dashboards"
+      name: "DUCK - A question practice app for competetive exams",
+      stack: ["NestJS", "GraphQL", "Drizzle ORM", "Rag", "ReactNative Expo", "Supabase"],
+      vibe: "Like Doulingo, but for indian competetive exams"
     };
   }
 
@@ -85,24 +78,12 @@ class Pranav {
     };
   }
 
-  funFacts() {
-    return [
-      "Once ran production Node.js v8 in 2024 just to migrate a payment gateway",
-      "Has written TypeScript definitions for a library that didn't have any",
-      "Believes every service deserves a retry queue and a health check",
-      "Thinks 404 pages are an art form",
-      "Currently learning Go… slowly"
-    ];
-  }
-
-  ping() {
-    console.log("%c Hey there! You found me ", "background:#1a1a1a;color:#00ff88;padding:10px;border-radius:8px;font-size:16px;");
-    return "Open to interesting backend gigs, system design chats, or just saying hi → pranavs.engineer@gmail.com";
-  }
+  hireMe() {
+    console.log("%c Pranav S is online ", "color:#00ff88; background:#0d1117; font-size:18px; padding:12px 24px; border-radius:12px; font-weight:bold;");
+    console.log("%c Available for backend roles • freelance • contract • coffee chats ", "color:#8b949e; font-size:14px; padding:4px 0;");
+    console.log("%c Shoot a mail → pranavs.engineer@gmail.com ", "color:#58a6ff; font-size:14px;");
+    return "Thanks for stopping by! Now go make something awesome";
+   }
 }
 
-// Export so people can play with it in devtools
-export default new Pranav();
 
-// Try in console:
-// (new Pranav()).ping()
