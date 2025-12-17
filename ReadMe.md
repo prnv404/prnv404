@@ -14,7 +14,7 @@ class Pranav {
     "NextJs", "React", "ReactNative", "Drizzle"
   ] as const;
 
-  currentlyBuilding = "DUCK → Duolingo-style app for Indian competitive exams (NestJS + React Native)";
+  currentlyExploring = "bunJs Hono and ReactNative";
 
   experience = [
     "IODatalabs (GoCXM) → Production microservices (2024–2025)",
